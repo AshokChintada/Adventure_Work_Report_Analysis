@@ -24,14 +24,27 @@ Adventure Works, a global cycling and outdoor gear brand, seeks to better unders
 
 ---
 
-## 📊 Key Metrics
+## 🔍 Key Insights
 
-- **Total Revenue:** $24.9M  
-- **Total Orders:** 25.2K  
-- **Total Profit:** $10.5M  
-- **Return Rate:** 2.2%  
-- **Unique Customers:** 17.42K  
-- **Revenue per Customer:** $1,431
+### 📈 Revenue & Orders Trends
+
+- **Monthly Revenue (Jan 2020 – Jan 2022):** Consistent upward trend, peaking at $1.83M
+- **Monthly Orders:** 2.15K (slightly down from previous month by 0.88%)
+- **Monthly Returns:** 166 (slight increase by 1.78%)
+
+### 📦 Orders by Category
+- **Accessories:** 17K orders  
+- **Bikes:** 13.9K orders  
+- **Clothing:** 7K orders
+
+### 🛒 Top Products by Orders
+- **Water Bottle - 30 oz:** 3,983 orders  
+- **Patch Kit/8 Patches:** 2,952 orders  
+- **Mountain Tire Tube:** 2,846 orders
+
+### 🚚 Return Rates
+- Most returned product: **Sport-100 Helmet, Red** – 3.33%  
+- Most ordered type: **Shorts**
 
 ---
 
