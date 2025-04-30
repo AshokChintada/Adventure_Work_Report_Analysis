@@ -71,9 +71,9 @@ This page provides details on customer segmentation by **income level, occupatio
 
 ### Key Highlights:
 - **By Income Level:**  
-  - Low: 45.92%  
-  - High: 43.69%  
-  - Average: 10.39%
+  - Low: 43.69%  
+  - High: 10.39%  
+  - Average: 45.92%
 
 - **By Occupation:**  
   - Professional: 42.12%  
