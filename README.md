@@ -43,8 +43,8 @@ Adventure Works, a global cycling and outdoor gear brand, seeks to better unders
 - **Mountain Tire Tube:** 2,846 orders
 
 ### 🚚 Return Rates
-- Most returned product: **Sport-100 Helmet, Red** – 3.33%  
-- Most ordered type: **Shorts**
+- Most returned product: **Shorts** 
+- Most ordered type: **Tire sand Tubes**
 
 ---
 
