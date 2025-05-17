@@ -44,7 +44,7 @@ Adventure Works, a global cycling and outdoor gear brand, seeks to better unders
 
 ### 🚚 Return Rates
 - Most returned product: **Shorts** 
-- Most ordered type: **Tire sand Tubes**
+- Most ordered type: **Tyres and Tubes**
 
 ---
 
